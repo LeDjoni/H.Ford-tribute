@@ -1,0 +1,18 @@
+body {
+  font-family:'Lobster' ,Times New Roman;
+  background-color:#a4a4a4;
+  font-size:18px;
+}
+h1{
+  font-size:125px;
+  font-family:'Lobster';
+  margin:30px;
+  color: Blue;
+}
+h4{
+  margin:25px;
+  font-size:28px;
+}
+p {
+  font-family:'Lobster', Open Sans;
+}
